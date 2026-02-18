@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://imobiliario.taj.adv.br/sitemap.xml
